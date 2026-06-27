@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BernatskyPavel
-- 👀 I’m interested in С/С++, Rust, Java
-- 🌱 I’m currently learning Rust and mastering C/C++
+- 👀 I’m interested in Zig, С, Java
+- 🌱 I’m currently learning Zig and JavaScript
 
 <!---
 BernatskyPavel/BernatskyPavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
